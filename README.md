@@ -1,4 +1,4 @@
-# Lab Activity 1 - Data Preprocessing
+# Data Preprocessing
 
 ## Description
 This repository contains the implementation of data preprocessing for the **LoanData_Raw_v1.0.csv** dataset. The activity includes handling missing values and applying feature scaling to prepare the dataset for further analysis.
